@@ -1,0 +1,931 @@
+"Miasto","Powiat","Województwo","Powierzchnia","Liczba ludności","Gęstość zaludnienia"
+"Aleksandrów Kujawski","aleksandrowski","kujawsko-pomorskie",7.23,12270,1697
+"Aleksandrów Łódzki","zgierski","łódzkie",13.82,21535,1558
+"Alwernia","chrzanowski","małopolskie",8.88,3380,381
+"Andrychów","wadowicki","małopolskie",10.33,20567,1991
+"Annopol","kraśnicki","lubelskie",7.73,2572,333
+"Augustów","augustowski","podlaskie",80.9,30270,374
+"Babimost","zielonogórski","lubuskie",3.65,3923,1075
+"Baborów","głubczycki","opolskie",11.86,2933,247
+"Baranów Sandomierski","tarnobrzeski","podkarpackie",9.15,1477,161
+"Barcin","żniński","kujawsko-pomorskie",3.7,7516,2031
+"Barczewo","olsztyński","warmińsko-mazurskie",4.58,7472,1631
+"Bardo","ząbkowicki","dolnośląskie",4.71,2603,553
+"Barlinek","myśliborski","zachodniopomorskie",17.55,13853,789
+"Bartoszyce","bartoszycki","warmińsko-mazurskie",11.79,23810,2020
+"Barwice","szczecinecki","zachodniopomorskie",7.52,3742,498
+"Bełchatów","bełchatowski","łódzkie",34.64,57964,1673
+"Bełżyce","lubelski","lubelskie",23.46,6608,282
+"Będzin","będziński","śląskie",37.37,57343,1534
+"Biała","prudnicki","opolskie",14.72,2454,167
+"Biała Piska","piski","warmińsko-mazurskie",3.24,4041,1247
+"Biała Podlaska","Biała Podlaska[a]","lubelskie",49.4,57545,1165
+"Biała Rawska","rawski","łódzkie",9.53,3206,336
+"Białobrzegi","białobrzeski","mazowieckie",7.51,7015,934
+"Białogard","białogardzki","zachodniopomorskie",25.73,24368,947
+"Biały Bór","szczecinecki","zachodniopomorskie",12.82,2171,169
+"Białystok","Białystok[a]","podlaskie",102.13,297288,2911
+"Biecz","gorlicki","małopolskie",17.71,4629,261
+"Bielawa","dzierżoniowski","dolnośląskie",36.21,30207,834
+"Bielsk Podlaski","bielski","podlaskie",27.01,25611,948
+"Bielsko-Biała","Bielsko-Biała[a]","śląskie",124.51,171505,1377
+"Bieruń","bieruńsko-lędziński","śląskie",40.49,19639,485
+"Bierutów","oleśnicki","dolnośląskie",8.36,4935,590
+"Bieżuń","żuromiński","mazowieckie",12.07,1875,155
+"Biłgoraj","biłgorajski","lubelskie",21.1,26550,1258
+"Biskupiec","olsztyński","warmińsko-mazurskie",5,10539,2108
+"Bisztynek","bartoszycki","warmińsko-mazurskie",2.16,2417,1119
+"Blachownia","częstochowski","śląskie",36.66,9676,264
+"Błaszki","sieradzki","łódzkie",1.62,2158,1332
+"Błażowa","rzeszowski","podkarpackie",4.23,2148,508
+"Błonie","warszawski zachodni","mazowieckie",9.09,12354,1359
+"Bobolice","koszaliński","zachodniopomorskie",4.77,4061,851
+"Bobowa","gorlicki","małopolskie",7.18,3123,435
+"Bochnia","bocheński","małopolskie",29.87,29992,1004
+"Bodzentyn","kielecki","świętokrzyskie",8.65,2238,259
+"Bogatynia","zgorzelecki","dolnośląskie",59.88,17762,297
+"Boguchwała","rzeszowski","podkarpackie",9.11,6096,669
+"Boguszów-Gorce","wałbrzyski","dolnośląskie",27.02,15566,576
+"Bojanowo","rawicki","wielkopolskie",2.34,2940,1256
+"Bolesławiec","bolesławiecki","dolnośląskie",23.57,39084,1658
+"Bolków","jaworski","dolnośląskie",7.68,5047,657
+"Borek Wielkopolski","gostyński","wielkopolskie",6.29,2523,401
+"Borne Sulinowo","szczecinecki","zachodniopomorskie",18.15,4984,275
+"Braniewo","braniewski","warmińsko-mazurskie",12.41,17074,1376
+"Brańsk","bielski","podlaskie",32.43,3785,117
+"Brodnica","brodnicki","kujawsko-pomorskie",23.15,28717,1240
+"Brok","ostrowski","mazowieckie",28.06,1955,70
+"Brusy","chojnicki","pomorskie",5.2,5209,1002
+"Brwinów","pruszkowski","mazowieckie",10.1,13533,1340
+"Brzeg","brzeski","opolskie",14.61,36110,2472
+"Brzeg Dolny","wołowski","dolnośląskie",17.2,12486,726
+"Brzesko","brzeski","małopolskie",11.92,16884,1416
+"Brzeszcze","oświęcimski","małopolskie",19.04,11345,596
+"Brześć Kujawski","włocławski","kujawsko-pomorskie",7.04,4660,662
+"Brzeziny","brzeziński","łódzkie",21.58,12534,581
+"Brzostek","dębicki","podkarpackie",8.76,2714,310
+"Brzozów","brzozowski","podkarpackie",11.46,7471,652
+"Buk","poznański","wielkopolskie",2.96,6096,2059
+"Bukowno","olkuski","małopolskie",64.59,10297,159
+"Busko-Zdrój","buski","świętokrzyskie",12.28,16092,1310
+"Bychawa","lubelski","lubelskie",6.69,4976,744
+"Byczyna","kluczborski","opolskie",5.79,3651,631
+"Bydgoszcz","Bydgoszcz[a]","kujawsko-pomorskie",175.98,352313,2002
+"Bystrzyca Kłodzka","kłodzki","dolnośląskie",10.74,10239,953
+"Bytom","Bytom[a]","śląskie",69.44,168394,2425
+"Bytom Odrzański","nowosolski","lubuskie",2.3,4365,1898
+"Bytów","bytowski","pomorskie",8.72,16983,1948
+"Cedynia","gryfiński","zachodniopomorskie",1.67,1625,973
+"Chełm","Chełm[a]","lubelskie",35.28,63333,1795
+"Chełmek","oświęcimski","małopolskie",8.27,9090,1099
+"Chełmno","chełmiński","kujawsko-pomorskie",13.56,19911,1468
+"Chełmża","toruński","kujawsko-pomorskie",7.84,14645,1868
+"Chęciny","kielecki","świętokrzyskie",14.13,4421,313
+"Chmielnik","kielecki","świętokrzyskie",7.8,3752,481
+"Chocianów","polkowicki","dolnośląskie",9,7996,888
+"Chociwel","stargardzki","zachodniopomorskie",3.67,3183,867
+"Chocz","pleszewski","wielkopolskie",6.88,1811,263
+"Chodecz","włocławski","kujawsko-pomorskie",1.39,1885,1356
+"Chodzież","chodzieski","wielkopolskie",12.77,18877,1478
+"Chojna","gryfiński","zachodniopomorskie",12.58,7440,591
+"Chojnice","chojnicki","pomorskie",21.04,39937,1898
+"Chojnów","legnicki","dolnośląskie",5.32,13573,2551
+"Choroszcz","białostocki","podlaskie",16.79,5834,347
+"Chorzele","przasnyski","mazowieckie",17.51,3069,175
+"Chorzów","Chorzów[a]","śląskie",33.24,109021,3280
+"Choszczno","choszczeński","zachodniopomorskie",9.58,15352,1603
+"Chrzanów","chrzanowski","małopolskie",38.32,37123,969
+"Ciechanowiec","wysokomazowiecki","podlaskie",19.53,4655,238
+"Ciechanów","ciechanowski","mazowieckie",32.78,44303,1352
+"Ciechocinek","aleksandrowski","kujawsko-pomorskie",15.26,10586,694
+"Cieszanów","lubaczowski","podkarpackie",15.06,1940,129
+"Cieszyn","cieszyński","śląskie",28.61,34876,1219
+"Ciężkowice","tarnowski","małopolskie",9.99,2470,247
+"Cybinka","słubicki","lubuskie",5.29,2755,521
+"Czaplinek","drawski","zachodniopomorskie",13.62,7155,525
+"Czarna Białostocka","białostocki","podlaskie",14.28,9402,658
+"Czarna Woda","starogardzki","pomorskie",9.94,2841,286
+"Czarne","człuchowski","pomorskie",46.43,5983,129
+"Czarnków","czarnkowsko-trzcianecki","wielkopolskie",10.17,10784,1060
+"Czchów","brzeski","małopolskie",14.09,2380,169
+"Czechowice-Dziedzice","bielski","śląskie",32.91,35795,1088
+"Czeladź","będziński","śląskie",16.38,31901,1948
+"Czempiń","kościański","wielkopolskie",3.32,5296,1595
+"Czerniejewo","gnieźnieński","wielkopolskie",10.19,2620,257
+"Czersk","chojnicki","pomorskie",9.73,9909,1018
+"Czerwieńsk","zielonogórski","lubuskie",9.36,4094,437
+"Czerwionka-Leszczyny","rybnicki","śląskie",37.63,28329,753
+"Częstochowa","Częstochowa[a]","śląskie",159.71,224376,1405
+"Człopa","wałecki","zachodniopomorskie",6.27,2326,371
+"Człuchów","człuchowski","pomorskie",12.78,13869,1085
+"Czyżew","wysokomazowiecki","podlaskie",5.23,2640,505
+"Ćmielów","ostrowiecki","świętokrzyskie",13.34,3014,226
+"Daleszyce","kielecki","świętokrzyskie",15.5,2914,188
+"Darłowo","sławieński","zachodniopomorskie",20.21,13924,689
+"Dąbie","kolski","wielkopolskie",8.8,2017,229
+"Dąbrowa Białostocka","sokólski","podlaskie",22.64,5632,249
+"Dąbrowa Górnicza","Dąbrowa Górnicza[a]","śląskie",188.73,121121,642
+"Dąbrowa Tarnowska","dąbrowski","małopolskie",23.07,11924,517
+"Debrzno","człuchowski","pomorskie",7.51,5152,686
+"Dębica","dębicki","podkarpackie",33.83,46063,1362
+"Dęblin","rycki","lubelskie",38.33,16398,428
+"Dębno","myśliborski","zachodniopomorskie",19.51,13931,714
+"Dobczyce","myślenicki","małopolskie",12.97,6425,495
+"Dobiegniew","strzelecko-drezdenecki","lubuskie",5.69,3087,543
+"Dobra","łobeski","zachodniopomorskie",2.37,2353,993
+"Dobra","turecki","wielkopolskie",1.84,1396,759
+"Dobre Miasto","olsztyński","warmińsko-mazurskie",4.86,10293,2118
+"Dobrodzień","oleski","opolskie",19.53,3749,192
+"Dobrzany","stargardzki","zachodniopomorskie",5.34,2288,428
+"Dobrzyca","pleszewski","wielkopolskie",19.7,3153,160
+"Dobrzyń nad Wisłą","lipnowski","kujawsko-pomorskie",5.41,2161,399
+"Dolsk","śremski","wielkopolskie",6.2,1569,253
+"Drawno","choszczeński","zachodniopomorskie",5.03,2307,459
+"Drawsko Pomorskie","drawski","zachodniopomorskie",22.33,11672,523
+"Drezdenko","strzelecko-drezdenecki","lubuskie",10.72,10282,959
+"Drobin","płocki","mazowieckie",9.65,2925,303
+"Drohiczyn","siemiatycki","podlaskie",15.69,2011,128
+"Drzewica","opoczyński","łódzkie",4.81,3865,804
+"Dukla","krośnieński","podkarpackie",5.48,2098,383
+"Duszniki-Zdrój","kłodzki","dolnośląskie",22.28,4728,212
+"Dynów","rzeszowski","podkarpackie",24.55,6146,250
+"Działdowo","działdowski","warmińsko-mazurskie",11.47,21370,1863
+"Działoszyce","pińczowski","świętokrzyskie",1.92,913,476
+"Działoszyn","pajęczański","łódzkie",4.94,5950,1204
+"Dzierzgoń","sztumski","pomorskie",3.9,5413,1388
+"Dzierżoniów","dzierżoniowski","dolnośląskie",20.07,33653,1677
+"Dziwnów","kamieński","zachodniopomorskie",6.14,2707,441
+"Elbląg","Elbląg[a]","warmińsko-mazurskie",79.82,120895,1515
+"Ełk","ełcki","warmińsko-mazurskie",21.05,61523,2923
+"Frampol","biłgorajski","lubelskie",4.67,1433,307
+"Frombork","braniewski","warmińsko-mazurskie",7.59,2389,315
+"Garwolin","garwoliński","mazowieckie",22.08,17381,787
+"Gąbin","płocki","mazowieckie",27.95,4127,148
+"Gdańsk","Gdańsk[a]","pomorskie",261.96,464254,1772
+"Gdynia","Gdynia[a]","pomorskie",135.14,246306,1823
+"Giżycko","giżycki","warmińsko-mazurskie",13.72,29480,2149
+"Glinojeck","ciechanowski","mazowieckie",7.37,3027,411
+"Gliwice","Gliwice[a]","śląskie",133.88,181309,1354
+"Głogów","głogowski","dolnośląskie",35.11,68179,1942
+"Głogów Małopolski","rzeszowski","podkarpackie",13.71,6431,469
+"Głogówek","prudnicki","opolskie",22.06,5607,254
+"Głowno","zgierski","łódzkie",19.84,14422,727
+"Głubczyce","głubczycki","opolskie",12.54,12624,1007
+"Głuchołazy","nyski","opolskie",6.83,13735,2011
+"Głuszyca","wałbrzyski","dolnośląskie",16.21,6431,397
+"Gniew","tczewski","pomorskie",6.04,6791,1124
+"Gniewkowo","inowrocławski","kujawsko-pomorskie",9.18,7202,785
+"Gniezno","gnieźnieński","wielkopolskie",40.6,68943,1698
+"Gogolin","krapkowicki","opolskie",20.35,6640,326
+"Golczewo","kamieński","zachodniopomorskie",7.42,2686,362
+"Goleniów","goleniowski","zachodniopomorskie",11.78,22553,1915
+"Golina","koniński","wielkopolskie",3.52,4493,1276
+"Golub-Dobrzyń","golubsko-dobrzyński","kujawsko-pomorskie",7.5,12828,1710
+"Gołańcz","wągrowiecki","wielkopolskie",12.64,3294,261
+"Gołdap","gołdapski","warmińsko-mazurskie",17.2,13740,799
+"Goniądz","moniecki","podlaskie",4.28,1827,427
+"Gorlice","gorlicki","małopolskie",23.53,27781,1181
+"Gorzów Śląski","oleski","opolskie",18.54,2451,132
+"Gorzów Wielkopolski","Gorzów Wielkopolski[a]","lubuskie",85.72,124295,1450
+"Gostynin","gostyniński","mazowieckie",32.4,18720,578
+"Gostyń","gostyński","wielkopolskie",11.09,20182,1820
+"Gościno","kołobrzeski","zachodniopomorskie",5.7,2436,427
+"Gozdnica","żagański","lubuskie",23.92,3100,130
+"Góra","górowski","dolnośląskie",13.65,11994,879
+"Góra Kalwaria","piaseczyński","mazowieckie",13.67,11942,874
+"Górowo Iławeckie","bartoszycki","warmińsko-mazurskie",3.32,4021,1211
+"Górzno","brodnicki","kujawsko-pomorskie",3.43,1403,409
+"Grabów nad Prosną","ostrzeszowski","wielkopolskie",2.58,1941,752
+"Grajewo","grajewski","podlaskie",18.94,22049,1164
+"Grodków","brzeski","opolskie",9.88,8700,881
+"Grodzisk Mazowiecki","grodziski","mazowieckie",13.19,30955,2347
+"Grodzisk Wielkopolski","grodziski","wielkopolskie",18.21,14595,801
+"Grójec","grójecki","mazowieckie",8.57,16674,1946
+"Grudziądz","Grudziądz[a]","kujawsko-pomorskie",57.76,95629,1656
+"Grybów","nowosądecki","małopolskie",16.95,6089,359
+"Gryfice","gryficki","zachodniopomorskie",12.4,16600,1339
+"Gryfino","gryfiński","zachodniopomorskie",9.58,21393,2233
+"Gryfów Śląski","lwówecki","dolnośląskie",6.63,6684,1008
+"Gubin","krośnieński","lubuskie",20.68,16740,809
+"Hajnówka","hajnowski","podlaskie",21.29,20919,983
+"Halinów","miński","mazowieckie",2.84,3718,1309
+"Hel","pucki","pomorskie",22.95,3373,147
+"Hrubieszów","hrubieszowski","lubelskie",33.03,17903,542
+"Iława","iławski","warmińsko-mazurskie",21.88,33132,1514
+"Iłowa","żagański","lubuskie",9.18,3947,430
+"Iłża","radomski","mazowieckie",15.83,4832,305
+"Imielin","bieruńsko-lędziński","śląskie",27.99,9052,323
+"Inowrocław","inowrocławski","kujawsko-pomorskie",30.42,73577,2419
+"Ińsko","stargardzki","zachodniopomorskie",7.48,1965,263
+"Iwonicz-Zdrój","krośnieński","podkarpackie",5.89,1798,305
+"Izbica Kujawska","włocławski","kujawsko-pomorskie",2.24,2677,1195
+"Jabłonowo Pomorskie","brodnicki","kujawsko-pomorskie",3.35,3782,1129
+"Janikowo","inowrocławski","kujawsko-pomorskie",9.51,8844,930
+"Janowiec Wielkopolski","żniński","kujawsko-pomorskie",3.04,4016,1321
+"Janów Lubelski","janowski","lubelskie",14.8,11986,810
+"Jaraczewo","jarociński","wielkopolskie",10.07,1467,146
+"Jarocin","jarociński","wielkopolskie",16.38,26245,1602
+"Jarosław","jarosławski","podkarpackie",34.61,37892,1095
+"Jasień","żarski","lubuskie",4.79,4348,908
+"Jasło","jasielski","podkarpackie",36.52,35445,971
+"Jastarnia","pucki","pomorskie",5.06,2736,541
+"Jastrowie","złotowski","wielkopolskie",72.3,8662,120
+"Jastrzębie-Zdrój","Jastrzębie-Zdrój[a]","śląskie",85.33,89590,1050
+"Jawor","jaworski","dolnośląskie",18.8,23266,1238
+"Jaworzno","Jaworzno[a]","śląskie",152.59,92090,604
+"Jaworzyna Śląska","świdnicki","dolnośląskie",4.34,5164,1190
+"Jedlicze","krośnieński","podkarpackie",10.6,5761,543
+"Jedlina-Zdrój","wałbrzyski","dolnośląskie",17.45,4887,280
+"Jedwabne","łomżyński","podlaskie",4.54,1624,358
+"Jelcz-Laskowice","oławski","dolnośląskie",17.06,15867,930
+"Jelenia Góra","Jelenia Góra[a]","dolnośląskie",109.22,80072,733
+"Jeziorany","olsztyński","warmińsko-mazurskie",3.41,3258,955
+"Jędrzejów","jędrzejowski","świętokrzyskie",11.37,15369,1352
+"Jordanów","suski","małopolskie",21.03,5362,255
+"Józefów","biłgorajski","lubelskie",5,2498,500
+"Józefów","otwocki","mazowieckie",23.91,20488,857
+"Józefów nad Wisłą","opolski","lubelskie",3.65,929,255
+"Jutrosin","rawicki","wielkopolskie",1.62,1966,1214
+"Kalety","tarnogórski","śląskie",76.29,8627,113
+"Kalisz","Kalisz[a]","wielkopolskie",69.42,101625,1464
+"Kalisz Pomorski","drawski","zachodniopomorskie",11.96,4399,368
+"Kalwaria Zebrzydowska","wadowicki","małopolskie",5.5,4551,827
+"Kałuszyn","miński","mazowieckie",12.3,2927,238
+"Kamienna Góra","kamiennogórski","dolnośląskie",18.04,19348,1073
+"Kamień Krajeński","sępoleński","kujawsko-pomorskie",3.65,2394,656
+"Kamień Pomorski","kamieński","zachodniopomorskie",10.74,8868,826
+"Kamieńsk","radomszczański","łódzkie",11.99,2812,235
+"Kańczuga","przeworski","podkarpackie",7.6,3182,419
+"Karczew","otwocki","mazowieckie",28.12,9960,354
+"Kargowa","zielonogórski","lubuskie",4.55,3766,828
+"Karlino","białogardzki","zachodniopomorskie",9.4,5950,633
+"Karpacz","jeleniogórski","dolnośląskie",37.99,4711,124
+"Kartuzy","kartuski","pomorskie",6.8,14611,2149
+"Katowice","Katowice[a]","śląskie",164.64,296262,1799
+"Kazimierz Dolny","puławski","lubelskie",30.44,2607,86
+"Kazimierza Wielka","kazimierski","świętokrzyskie",5.33,5619,1054
+"Kąty Wrocławskie","wrocławski","dolnośląskie",8.61,6846,795
+"Kcynia","nakielski","kujawsko-pomorskie",6.84,4678,684
+"Kędzierzyn-Koźle","kędzierzyńsko-kozielski","opolskie",123.71,61661,498
+"Kępice","słupski","pomorskie",6.11,3646,597
+"Kępno","kępiński","wielkopolskie",7.79,14190,1822
+"Kętrzyn","kętrzyński","warmińsko-mazurskie",10.35,27478,2655
+"Kęty","oświęcimski","małopolskie",23.05,18886,819
+"Kielce","Kielce[a]","świętokrzyskie",109.65,196804,1795
+"Kietrz","głubczycki","opolskie",18.74,6061,323
+"Kisielice","iławski","warmińsko-mazurskie",3.37,2135,634
+"Kleczew","koniński","wielkopolskie",7.8,4212,540
+"Kleszczele","hajnowski","podlaskie",46.71,1297,28
+"Kluczbork","kluczborski","opolskie",12.35,23797,1927
+"Kłecko","gnieźnieński","wielkopolskie",9.62,2631,273
+"Kłobuck","kłobucki","śląskie",47.46,13014,274
+"Kłodawa","kolski","wielkopolskie",4.31,6530,1515
+"Kłodzko","kłodzki","dolnośląskie",24.84,27193,1095
+"Knurów","gliwicki","śląskie",33.95,38594,1137
+"Knyszyn","moniecki","podlaskie",23.68,2782,117
+"Kobylin","krotoszyński","wielkopolskie",4.87,3256,669
+"Kobyłka","wołomiński","mazowieckie",19.64,23120,1177
+"Kock","lubartowski","lubelskie",16.78,3342,199
+"Kolbuszowa","kolbuszowski","podkarpackie",7.94,9158,1153
+"Kolno","kolneński","podlaskie",25.07,10372,414
+"Kolonowskie","strzelecki","opolskie",55.7,3324,60
+"Koluszki","łódzki wschodni","łódzkie",9.9,13148,1328
+"Kołaczyce","jasielski","podkarpackie",7.15,1434,201
+"Koło","kolski","wielkopolskie",13.85,22227,1605
+"Kołobrzeg","kołobrzeski","zachodniopomorskie",25.67,46568,1814
+"Koniecpol","częstochowski","śląskie",36.92,6002,163
+"Konin","Konin[a]","wielkopolskie",82.16,74834,911
+"Konstancin-Jeziorna","piaseczyński","mazowieckie",17.74,17191,969
+"Konstantynów Łódzki","pabianicki","łódzkie",27.25,18013,661
+"Końskie","konecki","świętokrzyskie",17.7,19534,1104
+"Koprzywnica","sandomierski","świętokrzyskie",17.9,2497,139
+"Korfantów","nyski","opolskie",10.23,1842,180
+"Koronowo","bydgoski","kujawsko-pomorskie",28.15,11230,399
+"Korsze","kętrzyński","warmińsko-mazurskie",4.03,4346,1078
+"Kosów Lacki","sokołowski","mazowieckie",11.57,2120,183
+"Kostrzyn","poznański","wielkopolskie",7.98,9711,1217
+"Kostrzyn nad Odrą","gorzowski","lubuskie",46.14,17918,388
+"Koszalin","Koszalin[a]","zachodniopomorskie",98.34,107670,1095
+"Kościan","kościański","wielkopolskie",8.79,23907,2720
+"Kościerzyna","kościerski","pomorskie",15.86,23809,1501
+"Kowal","włocławski","kujawsko-pomorskie",4.68,3544,757
+"Kowalewo Pomorskie","golubsko-dobrzyński","kujawsko-pomorskie",4.45,4192,942
+"Kowary","jeleniogórski","dolnośląskie",37.39,11090,297
+"Koziegłowy","myszkowski","śląskie",26.71,2424,91
+"Kozienice","kozienicki","mazowieckie",10.45,17518,1676
+"Koźmin Wielkopolski","krotoszyński","wielkopolskie",5.89,6590,1119
+"Kożuchów","nowosolski","lubuskie",5.94,9520,1603
+"Kórnik","poznański","wielkopolskie",5.99,7793,1301
+"Krajenka","złotowski","wielkopolskie",3.76,3678,978
+"Kraków","Kraków[a]","małopolskie",326.85,767348,2348
+"Krapkowice","krapkowicki","opolskie",21.01,16500,785
+"Krasnobród","zamojski","lubelskie",6.99,3138,449
+"Krasnystaw","krasnostawski","lubelskie",42.13,18912,449
+"Kraśnik","kraśnicki","lubelskie",26.1,34821,1334
+"Krobia","gostyński","wielkopolskie",7.05,4304,610
+"Krosno","Krosno[a]","podkarpackie",43.5,46600,1071
+"Krosno Odrzańskie","krośnieński","lubuskie",8.15,11524,1414
+"Krośniewice","kutnowski","łódzkie",4.18,4426,1059
+"Krotoszyn","krotoszyński","wielkopolskie",22.54,29109,1291
+"Kruszwica","inowrocławski","kujawsko-pomorskie",6.64,8926,1344
+"Krynica Morska","nowodworski","pomorskie",116.01,1302,11
+"Krynica-Zdrój","nowosądecki","małopolskie",39.68,10757,271
+"Krynki","sokólski","podlaskie",3.83,2424,633
+"Krzanowice","raciborski","śląskie",3.08,2168,704
+"Krzepice","kłobucki","śląskie",27.66,4488,162
+"Krzeszowice","krakowski","małopolskie",16.97,10090,595
+"Krzywiń","kościański","wielkopolskie",2.27,1714,755
+"Krzyż Wielkopolski","czarnkowsko-trzcianecki","wielkopolskie",5.81,6222,1071
+"Książ Wielkopolski","śremski","wielkopolskie",1.96,2749,1403
+"Kudowa-Zdrój","kłodzki","dolnośląskie",33.9,10018,296
+"Kunów","ostrowiecki","świętokrzyskie",7.26,2970,409
+"Kutno","kutnowski","łódzkie",33.59,44513,1325
+"Kuźnia Raciborska","raciborski","śląskie",31.49,5402,172
+"Kwidzyn","kwidzyński","pomorskie",21.54,38553,1790
+"Lądek-Zdrój","kłodzki","dolnośląskie",20.32,5685,280
+"Legionowo","legionowski","mazowieckie",13.54,54041,3991
+"Legnica","Legnica[a]","dolnośląskie",56.29,100324,1782
+"Lesko","leski","podkarpackie",15.33,5532,361
+"Leszno","Leszno[a]","wielkopolskie",31.86,64197,2015
+"Leśna","lubański","dolnośląskie",8.56,4532,529
+"Leśnica","strzelecki","opolskie",14.5,2668,184
+"Lewin Brzeski","brzeski","opolskie",11.64,5774,496
+"Leżajsk","leżajski","podkarpackie",20.58,13990,680
+"Lębork","lęborski","pomorskie",17.86,35413,1983
+"Lędziny","bieruńsko-lędziński","śląskie",31.65,16819,531
+"Libiąż","chrzanowski","małopolskie",35.85,17135,478
+"Lidzbark","działdowski","warmińsko-mazurskie",5.68,7900,1391
+"Lidzbark Warmiński","lidzbarski","warmińsko-mazurskie",14.35,15877,1106
+"Limanowa","limanowski","małopolskie",18.7,15103,808
+"Lipiany","pyrzycki","zachodniopomorskie",5.54,3982,719
+"Lipno","lipnowski","kujawsko-pomorskie",10.99,14592,1328
+"Lipsk","augustowski","podlaskie",4.98,2376,477
+"Lipsko","lipski","mazowieckie",15.7,5592,356
+"Lubaczów","lubaczowski","podkarpackie",25.73,12101,470
+"Lubań","lubański","dolnośląskie",16.12,21318,1322
+"Lubartów","lubartowski","lubelskie",13.91,22138,1592
+"Lubawa","iławski","warmińsko-mazurskie",16.84,10269,610
+"Lubawka","kamiennogórski","dolnośląskie",22.44,6106,272
+"Lubień Kujawski","włocławski","kujawsko-pomorskie",2.31,1391,602
+"Lubin","lubiński","dolnośląskie",40.77,72892,1788
+"Lublin","Lublin[a]","lubelskie",147.47,339850,2305
+"Lubliniec","lubliniecki","śląskie",89.36,23899,267
+"Lubniewice","sulęciński","lubuskie",12.11,2019,167
+"Lubomierz","lwówecki","dolnośląskie",8.05,2002,249
+"Luboń","poznański","wielkopolskie",13.51,31653,2343
+"Lubraniec","włocławski","kujawsko-pomorskie",1.97,3052,1549
+"Lubsko","żarski","lubuskie",12.51,14182,1134
+"Lubycza Królewska","tomaszowski","lubelskie",3.92,2469,630
+"Lwówek","nowotomyski","wielkopolskie",3.16,2999,949
+"Lwówek Śląski","lwówecki","dolnośląskie",16.65,8895,534
+"Łabiszyn","żniński","kujawsko-pomorskie",2.89,4501,1557
+"Łagów","kielecki","świętokrzyskie",8.22,1573,191
+"Łańcut","łańcucki","podkarpackie",19.42,17777,915
+"Łapy","białostocki","podlaskie",12.14,15689,1292
+"Łasin","grudziądzki","kujawsko-pomorskie",4.79,3320,693
+"Łask","łaski","łódzkie",15.67,17484,1116
+"Łaskarzew","garwoliński","mazowieckie",15.35,4879,318
+"Łaszczów","tomaszowski","lubelskie",5.01,2190,437
+"Łaziska Górne","mikołowski","śląskie",20.07,22390,1116
+"Łazy","zawierciański","śląskie",8.6,6882,800
+"Łeba","lęborski","pomorskie",14.81,3694,249
+"Łęczna","łęczyński","lubelskie",19,19167,1009
+"Łęczyca","łęczycki","łódzkie",8.95,14252,1592
+"Łęknica","żarski","lubuskie",16.43,2500,152
+"Łobez","łobeski","zachodniopomorskie",12.84,10299,802
+"Łobżenica","pilski","wielkopolskie",3.25,2971,914
+"Łochów","węgrowski","mazowieckie",13.39,6848,511
+"Łomianki","warszawski zachodni","mazowieckie",8.4,16875,2009
+"Łomża","Łomża[a]","podlaskie",32.67,63092,1931
+"Łosice","łosicki","mazowieckie",23.74,7096,299
+"Łowicz","łowicki","łódzkie",23.42,28704,1226
+"Łódź","Łódź[a]","łódzkie",293.25,690422,2354
+"Łuków","łukowski","lubelskie",35.75,30310,848
+"Maków Mazowiecki","makowski","mazowieckie",10.28,9860,958
+"Maków Podhalański","suski","małopolskie",20.12,5919,294
+"Malbork","malborski","pomorskie",17.16,38723,2257
+"Małogoszcz","jędrzejowski","świętokrzyskie",9.68,3809,393
+"Małomice","żagański","lubuskie",5.37,3512,654
+"Margonin","chodzieski","wielkopolskie",5.15,3011,585
+"Marki","wołomiński","mazowieckie",26.15,32686,1250
+"Maszewo","goleniowski","zachodniopomorskie",5.54,3342,603
+"Miasteczko Śląskie","tarnogórski","śląskie",67.83,7419,109
+"Miastko","bytowski","pomorskie",5.68,10605,1867
+"Michałowo","białostocki","podlaskie",2.15,3073,1429
+"Miechów","miechowski","małopolskie",15.49,11696,755
+"Miejska Górka","rawicki","wielkopolskie",3.14,3261,1039
+"Mielec","mielecki","podkarpackie",46.89,60628,1293
+"Mielno","koszaliński","zachodniopomorskie",33.45,3000,90
+"Mieroszów","wałbrzyski","dolnośląskie",10.31,4147,402
+"Mieszkowice","gryfiński","zachodniopomorskie",5.25,3681,701
+"Międzybórz","oleśnicki","dolnośląskie",6.41,2362,368
+"Międzychód","międzychodzki","wielkopolskie",6.98,10660,1527
+"Międzylesie","kłodzki","dolnośląskie",14.37,2623,183
+"Międzyrzec Podlaski","bialski","lubelskie",20.03,16925,845
+"Międzyrzecz","międzyrzecki","lubuskie",10.26,18255,1779
+"Międzyzdroje","kamieński","zachodniopomorskie",4.5,5422,1205
+"Mikołajki","mrągowski","warmińsko-mazurskie",9.32,3852,413
+"Mikołów","mikołowski","śląskie",79.21,40423,510
+"Mikstat","ostrzeszowski","wielkopolskie",2.52,1866,740
+"Milanówek","grodziski","mazowieckie",13.44,16398,1220
+"Milicz","milicki","dolnośląskie",13.5,11482,851
+"Miłakowo","ostródzki","warmińsko-mazurskie",8.76,2609,298
+"Miłomłyn","ostródzki","warmińsko-mazurskie",12.38,2449,198
+"Miłosław","wrzesiński","wielkopolskie",4.07,3589,882
+"Mińsk Mazowiecki","miński","mazowieckie",13.18,40399,3065
+"Mirosławiec","wałecki","zachodniopomorskie",2.41,3065,1325
+"Mirsk","lwówecki","dolnośląskie",14.66,3938,269
+"Mława","mławski","mazowieckie",34.8,31243,898
+"Młynary","elbląski","warmińsko-mazurskie",2.76,1792,649
+"Modliborzyce","janowski","lubelskie",7.89,1469,186
+"Mogielnica","grójecki","mazowieckie",12.98,2294,177
+"Mogilno","mogileński","kujawsko-pomorskie",8.32,11995,1442
+"Mońki","moniecki","podlaskie",7.66,10042,1310
+"Morawica","kielecki","świętokrzyskie",4.38,1730,395
+"Morąg","ostródzki","warmińsko-mazurskie",6.11,13994,2290
+"Mordy","siedlecki","mazowieckie",4.54,1780,392
+"Moryń","gryfiński","zachodniopomorskie",5.54,1620,292
+"Mosina","poznański","wielkopolskie",13.5,13762,1019
+"Mrągowo","mrągowski","warmińsko-mazurskie",14.81,21889,1478
+"Mrocza","nakielski","kujawsko-pomorskie",5.01,4395,877
+"Mrozy","miński","mazowieckie",7.73,3576,463
+"Mszana Dolna","limanowski","małopolskie",27.1,7982,295
+"Mszczonów","żyrardowski","mazowieckie",8.56,6433,752
+"Murowana Goślina","poznański","wielkopolskie",8.62,10391,1205
+"Muszyna","nowosądecki","małopolskie",24.43,4909,201
+"Mysłowice","Mysłowice[a]","śląskie",65.62,74647,1138
+"Myszków","myszkowski","śląskie",73.59,31974,434
+"Myszyniec","ostrołęcki","mazowieckie",11.22,3397,303
+"Myślenice","myślenicki","małopolskie",30.22,18415,609
+"Myślibórz","myśliborski","zachodniopomorskie",15.04,11328,753
+"Nakło nad Notecią","nakielski","kujawsko-pomorskie",10.82,18531,1713
+"Nałęczów","puławski","lubelskie",13.82,3750,271
+"Namysłów","namysłowski","opolskie",22.61,16360,724
+"Narol","lubaczowski","podkarpackie",12.42,2102,169
+"Nasielsk","nowodworski","mazowieckie",12.57,7701,613
+"Nekla","wrzesiński","wielkopolskie",19.79,3719,188
+"Nidzica","nidzicki","warmińsko-mazurskie",6.86,13872,2022
+"Niemcza","dzierżoniowski","dolnośląskie",19.81,2981,150
+"Niemodlin","opolski","opolskie",13.11,6431,491
+"Niepołomice","wielicki","małopolskie",27.4,12507,456
+"Nieszawa","aleksandrowski","kujawsko-pomorskie",9.79,1914,196
+"Nisko","niżański","podkarpackie",60.96,15355,252
+"Nowa Dęba","tarnobrzeski","podkarpackie",16.7,11215,672
+"Nowa Ruda","kłodzki","dolnośląskie",37.05,22455,606
+"Nowa Sarzyna","leżajski","podkarpackie",9.15,5970,652
+"Nowa Sól","nowosolski","lubuskie",21.8,39098,1793
+"Nowe","świecki","kujawsko-pomorskie",3.57,5913,1656
+"Nowe Brzesko","proszowicki","małopolskie",7.26,1674,231
+"Nowe Miasteczko","nowosolski","lubuskie",3.29,2816,856
+"Nowe Miasto Lubawskie","nowomiejski","warmińsko-mazurskie",11.37,10997,967
+"Nowe Miasto nad Pilicą","grójecki","mazowieckie",11.25,3830,340
+"Nowe Skalmierzyce","ostrowski","wielkopolskie",1.58,4798,3037
+"Nowe Warpno","policki","zachodniopomorskie",24.51,1196,49
+"Nowogard","goleniowski","zachodniopomorskie",12.57,16756,1333
+"Nowogrodziec","bolesławiecki","dolnośląskie",16.1,4244,264
+"Nowogród","łomżyński","podlaskie",20.55,2173,106
+"Nowogród Bobrzański","zielonogórski","lubuskie",14.63,5172,354
+"Nowy Dwór Gdański","nowodworski","pomorskie",5.07,9964,1965
+"Nowy Dwór Mazowiecki","nowodworski","mazowieckie",28.21,28637,1015
+"Nowy Sącz","Nowy Sącz[a]","małopolskie",57.58,84041,1460
+"Nowy Staw","malborski","pomorskie",4.67,4196,899
+"Nowy Targ","nowotarski","małopolskie",51.07,33361,653
+"Nowy Tomyśl","nowotomyski","wielkopolskie",5.2,14702,2827
+"Nowy Wiśnicz","bocheński","małopolskie",4.97,2728,549
+"Nysa","nyski","opolskie",27.51,44397,1614
+"Oborniki","obornicki","wielkopolskie",14.08,18341,1303
+"Oborniki Śląskie","trzebnicki","dolnośląskie",14.46,9118,631
+"Obrzycko","szamotulski","wielkopolskie",3.74,2378,636
+"Odolanów","ostrowski","wielkopolskie",4.76,5155,1083
+"Ogrodzieniec","zawierciański","śląskie",28.56,4313,151
+"Okonek","złotowski","wielkopolskie",6.01,3929,654
+"Olecko","olecki","warmińsko-mazurskie",11.54,16508,1431
+"Olesno","oleski","opolskie",15.08,9400,623
+"Oleszyce","lubaczowski","podkarpackie",5.08,3041,599
+"Oleśnica","oleśnicki","dolnośląskie",20.96,37300,1780
+"Olkusz","olkuski","małopolskie",25.65,35921,1400
+"Olsztyn","Olsztyn[a]","warmińsko-mazurskie",88.33,173070,1959
+"Olsztynek","olsztyński","warmińsko-mazurskie",7.69,7677,998
+"Olszyna","lubański","dolnośląskie",20.26,4347,215
+"Oława","oławski","dolnośląskie",27.36,32883,1202
+"Opalenica","nowotomyski","wielkopolskie",6.42,9664,1505
+"Opatów","opatowski","świętokrzyskie",9.36,6516,696
+"Opatówek","kaliski","wielkopolskie",8.68,3723,429
+"Opoczno","opoczyński","łódzkie",24.75,21534,870
+"Opole","Opole[a]","opolskie",148.88,128140,861
+"Opole Lubelskie","opolski","lubelskie",15.12,8605,569
+"Orneta","lidzbarski","warmińsko-mazurskie",9.63,8924,927
+"Orzesze","mikołowski","śląskie",83.75,20773,248
+"Orzysz","piski","warmińsko-mazurskie",8.17,5615,687
+"Osieczna","leszczyński","wielkopolskie",4.76,2322,488
+"Osiek","staszowski","świętokrzyskie",17.43,2004,115
+"Ostrołęka","Ostrołęka[a]","mazowieckie",33.46,52451,1568
+"Ostroróg","szamotulski","wielkopolskie",1.25,1941,1553
+"Ostrowiec Świętokrzyski","ostrowiecki","świętokrzyskie",46.43,69852,1504
+"Ostróda","ostródzki","warmińsko-mazurskie",14.15,33243,2349
+"Ostrów Lubelski","lubartowski","lubelskie",29.77,2095,70
+"Ostrów Mazowiecka","ostrowski","mazowieckie",22.27,22656,1017
+"Ostrów Wielkopolski","ostrowski","wielkopolskie",41.9,72364,1727
+"Ostrzeszów","ostrzeszowski","wielkopolskie",12.13,14325,1181
+"Ośno Lubuskie","słubicki","lubuskie",8.01,3911,488
+"Oświęcim","oświęcimski","małopolskie",30,38678,1289
+"Otmuchów","nyski","opolskie",49.54,6647,134
+"Otwock","otwocki","mazowieckie",47.31,44873,948
+"Otyń","nowosolski","lubuskie",7.86,1589,202
+"Ozimek","opolski","opolskie",3.25,8807,2710
+"Ozorków","zgierski","łódzkie",15.46,19685,1273
+"Ożarów","opatowski","świętokrzyskie",7.79,4594,590
+"Ożarów Mazowiecki","warszawski zachodni","mazowieckie",8.13,11311,1391
+"Pabianice","pabianicki","łódzkie",32.99,65823,1995
+"Paczków","nyski","opolskie",6.6,7600,1152
+"Pajęczno","pajęczański","łódzkie",20.23,6792,336
+"Pakość","inowrocławski","kujawsko-pomorskie",3.46,5744,1660
+"Parczew","parczewski","lubelskie",8.05,10748,1335
+"Pasłęk","elbląski","warmińsko-mazurskie",10.63,12298,1157
+"Pasym","szczycieński","warmińsko-mazurskie",15.18,2549,168
+"Pelplin","tczewski","pomorskie",4.42,7912,1790
+"Pełczyce","choszczeński","zachodniopomorskie",13.07,2597,199
+"Piaseczno","piaseczyński","mazowieckie",16.22,47660,2938
+"Piaski","świdnicki","lubelskie",8.44,2598,308
+"Piastów","pruszkowski","mazowieckie",5.76,22732,3947
+"Piechowice","jeleniogórski","dolnośląskie",43.22,6314,146
+"Piekary Śląskie","Piekary Śląskie[a]","śląskie",39.98,55652,1392
+"Pieniężno","braniewski","warmińsko-mazurskie",3.81,2802,735
+"Pieńsk","zgorzelecki","dolnośląskie",9.92,5866,591
+"Pieszyce","dzierżoniowski","dolnośląskie",17.72,7170,405
+"Pilawa","garwoliński","mazowieckie",6.66,4557,684
+"Pilica","zawierciański","śląskie",8.22,1967,239
+"Pilzno","dębicki","podkarpackie",16.04,4892,305
+"Piła","pilski","wielkopolskie",102.68,73791,719
+"Piława Górna","dzierżoniowski","dolnośląskie",20.93,6479,310
+"Pińczów","pińczowski","świętokrzyskie",14.33,10946,764
+"Pionki","radomski","mazowieckie",18.4,18618,1012
+"Piotrków Kujawski","radziejowski","kujawsko-pomorskie",9.76,4490,460
+"Piotrków Trybunalski","Piotrków Trybunalski[a]","łódzkie",67.24,74312,1105
+"Pisz","piski","warmińsko-mazurskie",10.08,19386,1923
+"Piwniczna-Zdrój","nowosądecki","małopolskie",38.3,5925,155
+"Pleszew","pleszewski","wielkopolskie",13.38,17437,1303
+"Płock","Płock[a]","mazowieckie",88.04,120787,1372
+"Płońsk","płoński","mazowieckie",11.6,22214,1915
+"Płoty","gryficki","zachodniopomorskie",4.12,3995,970
+"Pniewy","szamotulski","wielkopolskie",9.32,8037,862
+"Pobiedziska","poznański","wielkopolskie",10.24,9139,892
+"Poddębice","poddębicki","łódzkie",5.87,7530,1283
+"Podkowa Leśna","grodziski","mazowieckie",10.13,3875,383
+"Pogorzela","gostyński","wielkopolskie",4.36,2098,481
+"Polanica-Zdrój","kłodzki","dolnośląskie",17.22,6381,371
+"Polanów","koszaliński","zachodniopomorskie",7.37,2949,400
+"Police","policki","zachodniopomorskie",37.31,32970,884
+"Polkowice","polkowicki","dolnośląskie",23.74,22504,948
+"Połaniec","staszowski","świętokrzyskie",17.41,8181,470
+"Połczyn-Zdrój","świdwiński","zachodniopomorskie",7.21,8181,1135
+"Poniatowa","opolski","lubelskie",15.26,9320,611
+"Poniec","gostyński","wielkopolskie",3.48,2841,816
+"Poręba","zawierciański","śląskie",39.99,8581,215
+"Poznań","Poznań[a]","wielkopolskie",261.91,538633,2057
+"Prabuty","kwidzyński","pomorskie",7.29,8710,1195
+"Praszka","oleski","opolskie",9.35,7724,826
+"Prochowice","legnicki","dolnośląskie",9.85,3646,370
+"Proszowice","proszowicki","małopolskie",7.33,6088,831
+"Prószków","opolski","opolskie",16.22,2603,160
+"Pruchnik","jarosławski","podkarpackie",19.91,3772,189
+"Prudnik","prudnicki","opolskie",20.5,21237,1036
+"Prusice","trzebnicki","dolnośląskie",10.94,2235,204
+"Pruszcz Gdański","gdański","pomorskie",16.47,30468,1850
+"Pruszków","pruszkowski","mazowieckie",19.19,61237,3191
+"Przasnysz","przasnyski","mazowieckie",25.16,17223,685
+"Przecław","mielecki","podkarpackie",16.04,1748,109
+"Przedbórz","radomszczański","łódzkie",6.08,3615,595
+"Przedecz","kolski","wielkopolskie",2.98,1690,567
+"Przemków","polkowicki","dolnośląskie",6.17,6217,1008
+"Przemyśl","Przemyśl[a]","podkarpackie",46.17,61808,1339
+"Przeworsk","przeworski","podkarpackie",22.13,15452,698
+"Przysucha","przysuski","mazowieckie",7.02,5934,845
+"Pszczyna","pszczyński","śląskie",22.49,25906,1152
+"Pszów","wodzisławski","śląskie",20.44,14114,691
+"Puck","pucki","pomorskie",4.79,11265,2352
+"Puławy","puławski","lubelskie",50.49,48114,953
+"Pułtusk","pułtuski","mazowieckie",23.07,19448,843
+"Puszczykowo","poznański","wielkopolskie",16.39,9693,591
+"Pyrzyce","pyrzycki","zachodniopomorskie",38.79,12709,328
+"Pyskowice","gliwicki","śląskie",30.89,18417,596
+"Pyzdry","wrzesiński","wielkopolskie",12.16,3164,260
+"Rabka-Zdrój","nowotarski","małopolskie",36.31,12883,355
+"Raciąż","płoński","mazowieckie",8.4,4437,528
+"Racibórz","raciborski","śląskie",75.01,55189,736
+"Radków","kłodzki","dolnośląskie",15.03,2427,161
+"Radlin","wodzisławski","śląskie",12.53,17861,1425
+"Radłów","tarnowski","małopolskie",16.83,2780,165
+"Radom","Radom[a]","mazowieckie",111.8,214566,1919
+"Radomsko","radomszczański","łódzkie",51.43,46409,902
+"Radomyśl Wielki","mielecki","podkarpackie",8.79,3167,360
+"Radoszyce","konecki","świętokrzyskie",17.17,3217,187
+"Radymno","jarosławski","podkarpackie",13.62,5335,392
+"Radziejów","radziejowski","kujawsko-pomorskie",5.69,5638,991
+"Radzionków","tarnogórski","śląskie",13.2,16798,1273
+"Radzymin","wołomiński","mazowieckie",23.39,12644,541
+"Radzyń Chełmiński","grudziądzki","kujawsko-pomorskie",1.78,1851,1040
+"Radzyń Podlaski","radzyński","lubelskie",19.31,15808,819
+"Rajgród","grajewski","podlaskie",35.28,1571,45
+"Rakoniewice","grodziski","wielkopolskie",3.37,3571,1060
+"Raszków","ostrowski","wielkopolskie",2.05,2101,1025
+"Rawa Mazowiecka","rawski","łódzkie",14.28,17480,1224
+"Rawicz","rawicki","wielkopolskie",7.74,20406,2636
+"Recz","choszczeński","zachodniopomorskie",12.4,2930,236
+"Reda","wejherowski","pomorskie",33.46,25102,750
+"Rejowiec","chełmski","lubelskie",6.5,2084,321
+"Rejowiec Fabryczny","chełmski","lubelskie",14.28,4396,308
+"Resko","łobeski","zachodniopomorskie",4.49,4255,948
+"Reszel","kętrzyński","warmińsko-mazurskie",3.82,4615,1208
+"Rogoźno","obornicki","wielkopolskie",11.24,11115,989
+"Ropczyce","ropczycko-sędziszowski","podkarpackie",47.1,15848,336
+"Różan","makowski","mazowieckie",6.66,2755,414
+"Ruciane-Nida","piski","warmińsko-mazurskie",17.07,4579,268
+"Ruda Śląska","Ruda Śląska[a]","śląskie",77.73,138578,1783
+"Rudnik nad Sanem","niżański","podkarpackie",36.6,6728,184
+"Rumia","wejherowski","pomorskie",30.1,48632,1616
+"Rybnik","Rybnik[a]","śląskie",148.36,139129,938
+"Rychwał","koniński","wielkopolskie",9.7,2379,245
+"Rydułtowy","wodzisławski","śląskie",14.95,21700,1452
+"Rydzyna","leszczyński","wielkopolskie",2.2,2811,1278
+"Ryglice","tarnowski","małopolskie",25.15,2831,113
+"Ryki","rycki","lubelskie",27.22,9768,351
+"Rymanów","krośnieński","podkarpackie",12.39,3792,306
+"Ryn","giżycki","warmińsko-mazurskie",4.14,2865,692
+"Rypin","rypiński","kujawsko-pomorskie",10.96,16482,1504
+"Rzepin","słubicki","lubuskie",11.42,6590,577
+"Rzeszów","Rzeszów[a]","podkarpackie",120.41,189662,1575
+"Rzgów","łódzki wschodni","łódzkie",16.77,3385,202
+"Sandomierz","sandomierski","świętokrzyskie",28.69,23863,832
+"Sanniki","gostyniński","mazowieckie",11.76,1994,170
+"Sanok","sanocki","podkarpackie",38.08,37980,997
+"Sejny","sejneński","podlaskie",4.49,5472,1219
+"Serock","legionowski","mazowieckie",13.43,4353,324
+"Sędziszów","jędrzejowski","świętokrzyskie",7.92,6494,820
+"Sędziszów Małopolski","ropczycko-sędziszowski","podkarpackie",9.96,7524,755
+"Sępopol","bartoszycki","warmińsko-mazurskie",4.63,1970,425
+"Sępólno Krajeńskie","sępoleński","kujawsko-pomorskie",6.55,9243,1411
+"Sianów","koszaliński","zachodniopomorskie",15.88,6666,420
+"Siechnice","wrocławski","dolnośląskie",15.63,7410,474
+"Siedlce","Siedlce[a]","mazowieckie",31.86,77653,2437
+"Siedliszcze","chełmski","lubelskie",13.16,1418,108
+"Siemianowice Śląskie","Siemianowice Śląskie[a]","śląskie",25.5,67523,2648
+"Siemiatycze","siemiatycki","podlaskie",36.25,14590,402
+"Sieniawa","przeworski","podkarpackie",6.74,2146,318
+"Sieradz","sieradzki","łódzkie",51.22,42570,831
+"Sieraków","międzychodzki","wielkopolskie",14.08,6046,429
+"Sierpc","sierpecki","mazowieckie",18.59,18148,976
+"Siewierz","będziński","śląskie",38.66,5520,143
+"Skalbmierz","kazimierski","świętokrzyskie",7.13,1292,181
+"Skała","krakowski","małopolskie",2.97,3770,1269
+"Skarszewy","starogardzki","pomorskie",10.79,7103,658
+"Skaryszew","radomski","mazowieckie",27.49,4375,159
+"Skarżysko-Kamienna","skarżyski","świętokrzyskie",64.39,45953,714
+"Skawina","krakowski","małopolskie",20.5,24325,1187
+"Skępe","lipnowski","kujawsko-pomorskie",7.48,3607,482
+"Skierniewice","Skierniewice[a]","łódzkie",34.6,48308,1396
+"Skoczów","cieszyński","śląskie",9.85,14504,1472
+"Skoki","wągrowiecki","wielkopolskie",11.2,4314,385
+"Skórcz","starogardzki","pomorskie",3.63,3609,994
+"Skwierzyna","międzyrzecki","lubuskie",35.89,9669,269
+"Sława","wschowski","lubuskie",14.9,4311,289
+"Sławków","będziński","śląskie",36.67,7040,192
+"Sławno","sławieński","zachodniopomorskie",15.83,12590,795
+"Słomniki","krakowski","małopolskie",3.43,4359,1271
+"Słubice","słubicki","lubuskie",19.21,16816,875
+"Słupca","słupecki","wielkopolskie",10.3,13851,1345
+"Słupsk","Słupsk[a]","pomorskie",43.15,91465,2120
+"Sobótka","wrocławski","dolnośląskie",32.2,6951,216
+"Sochaczew","sochaczewski","mazowieckie",26.19,36790,1405
+"Sokołów Małopolski","rzeszowski","podkarpackie",15.54,4133,266
+"Sokołów Podlaski","sokołowski","mazowieckie",17.51,18924,1081
+"Sokółka","sokólski","podlaskie",18.59,18331,986
+"Solec Kujawski","bydgoski","kujawsko-pomorskie",18.68,15661,838
+"Sompolno","koniński","wielkopolskie",6.21,3587,578
+"Sopot","Sopot[a]","pomorskie",17.28,36533,2114
+"Sosnowiec","Sosnowiec[a]","śląskie",91.06,204013,2240
+"Sośnicowice","gliwicki","śląskie",11.67,1881,161
+"Stalowa Wola","stalowowolski","podkarpackie",82.52,61903,750
+"Starachowice","starachowicki","świętokrzyskie",31.82,49513,1556
+"Stargard","stargardzki","zachodniopomorskie",48.08,68195,1418
+"Starogard Gdański","starogardzki","pomorskie",25.28,48060,1901
+"Stary Sącz","nowosądecki","małopolskie",15,9020,601
+"Staszów","staszowski","świętokrzyskie",26.88,14942,556
+"Stawiski","kolneński","podlaskie",13.24,2229,168
+"Stawiszyn","kaliski","wielkopolskie",0.99,1530,1545
+"Stąporków","konecki","świętokrzyskie",10.94,5754,526
+"Stepnica","goleniowski","zachodniopomorskie",3.4,2478,729
+"Stęszew","poznański","wielkopolskie",5.69,5952,1046
+"Stoczek Łukowski","łukowski","lubelskie",9.15,2556,279
+"Stopnica","buski","świętokrzyskie",4.55,1434,315
+"Stronie Śląskie","kłodzki","dolnośląskie",2.38,5755,2418
+"Strumień","cieszyński","śląskie",6.29,3696,588
+"Stryków","zgierski","łódzkie",8.15,3493,429
+"Strzegom","świdnicki","dolnośląskie",20.49,16272,794
+"Strzelce Krajeńskie","strzelecko-drezdenecki","lubuskie",5.54,10012,1807
+"Strzelce Opolskie","strzelecki","opolskie",29.97,18057,603
+"Strzelin","strzeliński","dolnośląskie",10.34,12423,1201
+"Strzelno","mogileński","kujawsko-pomorskie",4.46,5701,1278
+"Strzyżów","strzyżowski","podkarpackie",13.89,8893,640
+"Sucha Beskidzka","suski","małopolskie",27.65,9295,336
+"Suchań","stargardzki","zachodniopomorskie",3.57,1490,417
+"Suchedniów","skarżyski","świętokrzyskie",59.4,8478,143
+"Suchowola","sokólski","podlaskie",25.95,2196,85
+"Sulechów","zielonogórski","lubuskie",6.88,17012,2473
+"Sulejów","piotrkowski","łódzkie",26.26,6226,237
+"Sulejówek","miński","mazowieckie",19.31,19663,1018
+"Sulęcin","sulęciński","lubuskie",8.56,10168,1188
+"Sulmierzyce","krotoszyński","wielkopolskie",29.29,2899,99
+"Sułkowice","myślenicki","małopolskie",16.46,6614,402
+"Supraśl","białostocki","podlaskie",5.69,4621,821
+"Suraż","białostocki","podlaskie",33.86,992,29
+"Susz","iławski","warmińsko-mazurskie",6.67,5586,837
+"Suwałki","Suwałki[a]","podlaskie",65.51,69554,1062
+"Swarzędz","poznański","wielkopolskie",8.23,30739,3735
+"Syców","oleśnicki","dolnośląskie",17.05,10413,611
+"Szadek","zduńskowolski","łódzkie",17.93,1957,109
+"Szamocin","chodzieski","wielkopolskie",4.67,4302,921
+"Szamotuły","szamotulski","wielkopolskie",11.08,18835,1700
+"Szczawnica","nowotarski","małopolskie",32.9,5807,177
+"Szczawno-Zdrój","wałbrzyski","dolnośląskie",14.74,5650,383
+"Szczebrzeszyn","zamojski","lubelskie",29.12,5117,176
+"Szczecin","Szczecin[a]","zachodniopomorskie",300.6,403883,1344
+"Szczecinek","szczecinecki","zachodniopomorskie",48.48,40292,831
+"Szczekociny","zawierciański","śląskie",18.03,3679,206
+"Szczucin","dąbrowski","małopolskie",6.85,4163,608
+"Szczuczyn","grajewski","podlaskie",13.23,3426,259
+"Szczyrk","bielski","śląskie",39.07,5699,146
+"Szczytna","kłodzki","dolnośląskie",80.38,5242,65
+"Szczytno","szczycieński","warmińsko-mazurskie",10.62,23500,2213
+"Szepietowo","wysokomazowiecki","podlaskie",1.96,2209,1127
+"Szklarska Poręba","jeleniogórski","dolnośląskie",75.44,6681,89
+"Szlichtyngowa","wschowski","lubuskie",1.55,1289,832
+"Szprotawa","żagański","lubuskie",10.95,11944,1091
+"Sztum","sztumski","pomorskie",4.59,10127,2206
+"Szubin","nakielski","kujawsko-pomorskie",7.65,9602,1255
+"Szydłowiec","szydłowiecki","mazowieckie",21.89,11854,542
+"Ścinawa","lubiński","dolnośląskie",13.54,5677,419
+"Ślesin","koniński","wielkopolskie",7.18,3135,437
+"Śmigiel","kościański","wielkopolskie",5.3,5719,1079
+"Śrem","śremski","wielkopolskie",12.37,29845,2413
+"Środa Śląska","średzki","dolnośląskie",14.94,9428,631
+"Środa Wielkopolska","średzki","wielkopolskie",21.92,23162,1057
+"Świątniki Górne","krakowski","małopolskie",4.44,2422,545
+"Świdnica","świdnicki","dolnośląskie",21.76,57671,2650
+"Świdnik","świdnicki","lubelskie",20.35,39732,1952
+"Świdwin","świdwiński","zachodniopomorskie",22.38,15725,703
+"Świebodzice","świdnicki","dolnośląskie",30.43,22840,751
+"Świebodzin","świebodziński","lubuskie",16.93,21954,1297
+"Świecie","świecki","kujawsko-pomorskie",11.87,25924,2184
+"Świeradów-Zdrój","lubański","dolnośląskie",20.72,4209,203
+"Świerzawa","złotoryjski","dolnośląskie",1.76,2315,1315
+"Świętochłowice","Świętochłowice[a]","śląskie",13.31,50385,3785
+"Świnoujście","Świnoujście[a]","zachodniopomorskie",202.07,41032,203
+"Tarczyn","piaseczyński","mazowieckie",5.23,4105,785
+"Tarnobrzeg","Tarnobrzeg[a]","podkarpackie",85.4,47387,555
+"Tarnogród","biłgorajski","lubelskie",10.69,3395,318
+"Tarnowskie Góry","tarnogórski","śląskie",83.72,61262,732
+"Tarnów","Tarnów[a]","małopolskie",72.38,109650,1515
+"Tczew","tczewski","pomorskie",22.38,60257,2692
+"Terespol","bialski","lubelskie",10.11,5594,553
+"Tłuszcz","wołomiński","mazowieckie",7.91,8127,1027
+"Tolkmicko","elbląski","warmińsko-mazurskie",2.29,2719,1187
+"Tomaszów Lubelski","tomaszowski","lubelskie",13.29,19365,1467
+"Tomaszów Mazowiecki","tomaszowski","łódzkie",41.3,63238,1531
+"Toruń","Toruń[a]","kujawsko-pomorskie",115.72,202562,1750
+"Torzym","sulęciński","lubuskie",9.11,2529,278
+"Toszek","gliwicki","śląskie",9.71,3596,370
+"Trzcianka","czarnkowsko-trzcianecki","wielkopolskie",18.3,17228,941
+"Trzciel","międzyrzecki","lubuskie",3.04,2445,804
+"Trzcińsko-Zdrój","gryfiński","zachodniopomorskie",2.33,2297,986
+"Trzebiatów","gryficki","zachodniopomorskie",10.25,10025,978
+"Trzebinia","chrzanowski","małopolskie",31.94,19954,625
+"Trzebnica","trzebnicki","dolnośląskie",10.61,13261,1250
+"Trzemeszno","gnieźnieński","wielkopolskie",5.46,7752,1420
+"Tuchola","tucholski","kujawsko-pomorskie",17.69,13793,780
+"Tuchów","tarnowski","małopolskie",18.1,6693,370
+"Tuczno","wałecki","zachodniopomorskie",9.21,1931,210
+"Tuliszków","turecki","wielkopolskie",7,3322,475
+"Tułowice","opolski","opolskie",9.23,4000,433
+"Turek","turecki","wielkopolskie",16.17,27311,1689
+"Tuszyn","łódzki wschodni","łódzkie",23.25,7293,314
+"Twardogóra","oleśnicki","dolnośląskie",8.29,6784,818
+"Tychowo","białogardzki","zachodniopomorskie",3.96,2495,630
+"Tychy","Tychy[a]","śląskie",81.81,128211,1567
+"Tyczyn","rzeszowski","podkarpackie",9.67,3805,393
+"Tykocin","białostocki","podlaskie",28.97,1980,68
+"Tyszowce","tomaszowski","lubelskie",18.52,2120,114
+"Ujazd","strzelecki","opolskie",14.76,1770,120
+"Ujście","pilski","wielkopolskie",5.78,3738,647
+"Ulanów","niżański","podkarpackie",8.2,1405,171
+"Uniejów","poddębicki","łódzkie",12.23,3011,246
+"Urzędów","kraśnicki","lubelskie",12.91,1703,132
+"Ustka","słupski","pomorskie",10.19,15709,1542
+"Ustroń","cieszyński","śląskie",59.03,16108,273
+"Ustrzyki Dolne","bieszczadzki","podkarpackie",16.79,9176,547
+"Wadowice","wadowicki","małopolskie",10.54,18851,1789
+"Wałbrzych","Wałbrzych[a]","dolnośląskie",84.7,113621,1341
+"Wałcz","wałecki","zachodniopomorskie",38.17,25533,669
+"Warka","grójecki","mazowieckie",26.77,11894,444
+"Warszawa","m.st. Warszawa[a]","mazowieckie",517.24,1764615,3412
+"Warta","sieradzki","łódzkie",10.85,3258,300
+"Wasilków","białostocki","podlaskie",28.26,11074,392
+"Wąbrzeźno","wąbrzeski","kujawsko-pomorskie",8.53,13749,1612
+"Wąchock","starachowicki","świętokrzyskie",16.02,2795,174
+"Wągrowiec","wągrowiecki","wielkopolskie",17.83,25607,1436
+"Wąsosz","górowski","dolnośląskie",3.24,2688,830
+"Wejherowo","wejherowski","pomorskie",26.99,49927,1850
+"Węgliniec","zgorzelecki","dolnośląskie",8.73,2868,329
+"Węgorzewo","węgorzewski","warmińsko-mazurskie",10.88,11438,1051
+"Węgorzyno","łobeski","zachodniopomorskie",6.85,2865,418
+"Węgrów","węgrowski","mazowieckie",35.51,12765,359
+"Wiązów","strzeliński","dolnośląskie",9.16,2296,251
+"Wieleń","czarnkowsko-trzcianecki","wielkopolskie",4.46,5988,1343
+"Wielichowo","grodziski","wielkopolskie",1.24,1767,1425
+"Wieliczka","wielicki","małopolskie",13.41,22946,1711
+"Wieluń","wieluński","łódzkie",16.87,22794,1351
+"Wieruszów","wieruszowski","łódzkie",5.97,8600,1441
+"Więcbork","sępoleński","kujawsko-pomorskie",4.31,5969,1385
+"Wilamowice","bielski","śląskie",10.36,3065,296
+"Wisła","cieszyński","śląskie",110.17,11106,101
+"Wiślica","buski","świętokrzyskie",4.7,500,106
+"Witkowo","gnieźnieński","wielkopolskie",8.31,7873,947
+"Witnica","gorzowski","lubuskie",8.24,6821,828
+"Wleń","lwówecki","dolnośląskie",7.22,1806,250
+"Władysławowo","pucki","pomorskie",13.67,10009,732
+"Włocławek","Włocławek[a]","kujawsko-pomorskie",84.32,111752,1325
+"Włodawa","włodawski","lubelskie",17.97,13350,743
+"Włoszczowa","włoszczowski","świętokrzyskie",30.3,10096,333
+"Wodzisław Śląski","wodzisławski","śląskie",49.51,48345,976
+"Wojcieszów","złotoryjski","dolnośląskie",32.17,3696,115
+"Wojkowice","będziński","śląskie",12.79,8984,702
+"Wojnicz","tarnowski","małopolskie",8.5,3365,396
+"Wolbórz","piotrkowski","łódzkie",15.18,2336,154
+"Wolbrom","olkuski","małopolskie",10.12,8686,858
+"Wolin","kamieński","zachodniopomorskie",14.47,4842,335
+"Wolsztyn","wolsztyński","wielkopolskie",4.78,13328,2788
+"Wołczyn","kluczborski","opolskie",7.47,5958,798
+"Wołomin","wołomiński","mazowieckie",17.24,37164,2156
+"Wołów","wołowski","dolnośląskie",18.54,12439,671
+"Woźniki","lubliniecki","śląskie",71.01,4393,62
+"Wrocław","Wrocław[a]","dolnośląskie",292.82,638586,2181
+"Wronki","szamotulski","wielkopolskie",5.81,11293,1944
+"Września","wrzesiński","wielkopolskie",12.73,30279,2379
+"Wschowa","wschowski","lubuskie",9.25,14084,1523
+"Wyrzysk","pilski","wielkopolskie",4.12,5163,1253
+"Wysoka","pilski","wielkopolskie",4.82,2688,558
+"Wysokie Mazowieckie","wysokomazowiecki","podlaskie",15.24,9390,616
+"Wyszków","wyszkowski","mazowieckie",20.78,26965,1298
+"Wyszogród","płocki","mazowieckie",12.97,2634,203
+"Wyśmierzyce","białobrzeski","mazowieckie",16.84,896,53
+"Zabłudów","białostocki","podlaskie",14.3,2476,173
+"Zabrze","Zabrze[a]","śląskie",80.4,174349,2169
+"Zagórów","słupecki","wielkopolskie",3.44,3024,879
+"Zagórz","sanocki","podkarpackie",22.29,5105,229
+"Zakliczyn","tarnowski","małopolskie",4.02,1656,412
+"Zaklików","stalowowolski","podkarpackie",11.42,3017,264
+"Zakopane","tatrzański","małopolskie",84.26,27266,324
+"Zakroczym","nowodworski","mazowieckie",19.97,3211,161
+"Zalewo","iławski","warmińsko-mazurskie",8.22,2165,263
+"Zambrów","zambrowski","podlaskie",19.02,22173,1166
+"Zamość","Zamość[a]","lubelskie",30.34,64354,2121
+"Zator","oświęcimski","małopolskie",11.52,3691,320
+"Zawadzkie","strzelecki","opolskie",16.46,7250,440
+"Zawichost","sandomierski","świętokrzyskie",20.29,1793,88
+"Zawidów","zgorzelecki","dolnośląskie",6.07,4232,697
+"Zawiercie","zawierciański","śląskie",85.25,49908,585
+"Ząbki","wołomiński","mazowieckie",10.98,35770,3258
+"Ząbkowice Śląskie","ząbkowicki","dolnośląskie",13.67,15219,1113
+"Zbąszynek","świebodziński","lubuskie",3.58,5042,1408
+"Zbąszyń","nowotomyski","wielkopolskie",5.42,7265,1340
+"Zduny","krotoszyński","wielkopolskie",6.2,4543,733
+"Zduńska Wola","zduńskowolski","łódzkie",24.57,42374,1725
+"Zdzieszowice","krapkowicki","opolskie",12.35,11633,942
+"Zelów","bełchatowski","łódzkie",10.75,7665,713
+"Zgierz","zgierski","łódzkie",42.33,56690,1339
+"Zgorzelec","zgorzelecki","dolnośląskie",15.88,30738,1936
+"Zielona Góra","Zielona Góra[a]","lubuskie",278.32,139819,502
+"Zielonka","wołomiński","mazowieckie",79.48,17539,221
+"Ziębice","ząbkowicki","dolnośląskie",15.07,8796,584
+"Złocieniec","drawski","zachodniopomorskie",32.28,13068,405
+"Złoczew","sieradzki","łódzkie",13.79,3351,243
+"Złotoryja","złotoryjski","dolnośląskie",11.51,15783,1371
+"Złotów","złotowski","wielkopolskie",11.58,18441,1592
+"Złoty Stok","ząbkowicki","dolnośląskie",7.73,2821,365
+"Zwierzyniec","zamojski","lubelskie",6.19,3235,523
+"Zwoleń","zwoleński","mazowieckie",15.91,7855,494
+"Żabno","tarnowski","małopolskie",11.13,4248,382
+"Żagań","żagański","lubuskie",40.38,26148,648
+"Żarki","myszkowski","śląskie",25.44,4539,178
+"Żarów","świdnicki","dolnośląskie",7.57,6811,900
+"Żary","żarski","lubuskie",33.49,37907,1132
+"Żelechów","garwoliński","mazowieckie",12.13,3994,329
+"Żerków","jarociński","wielkopolskie",2.16,2120,981
+"Żmigród","trzebnicki","dolnośląskie",9.49,6472,682
+"Żnin","żniński","kujawsko-pomorskie",8.35,14041,1682
+"Żory","Żory[a]","śląskie",64.64,62243,963
+"Żukowo","kartuski","pomorskie",4.73,6677,1412
+"Żuromin","żuromiński","mazowieckie",11.18,8941,800
+"Żychlin","kutnowski","łódzkie",8.68,8288,955
+"Żyrardów","żyrardowski","mazowieckie",14.35,40243,2804
+"Żywiec","żywiecki","śląskie",50.54,31560,624
